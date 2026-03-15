@@ -1,4 +1,4 @@
 # git_test2025
 
 Hello Odin!
-...and Hel!
+...and Hera!
